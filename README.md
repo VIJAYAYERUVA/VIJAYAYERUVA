@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 👯 I'm looking to collaborate on any projects that have an impact
 - 🤔 I'm looking for help with showcasing my skills and find the best job for my skills
 - 💬 Ask me about my professional works and teaching
-- 📫 How to reach me: vyq4b@mail.umkc.edu|vijayakumari.yeruva@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/vijayakumariyeruva/
 - 😄 Pronouns: no preference
