@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for help with showcasing my skills and find the best job for my skills
 - 💬 Ask me about my professional works and teaching
 - 📫 How to reach me: https://www.linkedin.com/in/vijayakumariyeruva/
-- 😄 Pronouns: no preference
+- 😄 Pronouns: She/Her
