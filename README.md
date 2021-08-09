@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I'm currently working on improving data science skills with Python programming language
-- 🌱 I'm currently learning Plotly
+- 🌱 I'm currently learning Plotly, Dash
 - 👯 I'm looking to collaborate on any projects that have an impact
 - 🤔 I'm looking for help with showcasing my skills and find the best job for my skills
 - 💬 Ask me about my professional works and teaching
