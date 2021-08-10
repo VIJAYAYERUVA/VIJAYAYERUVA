@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there👋, I'm Vijaya</h1>
-<h3 align="center">A passionate data science learner, doing a Ph.D. in data science to move in the right direction</h3>
+<h3 align="center">A passionate data science learner</h3>
+<h4 align="center">Pursuing Ph.D. in data science to move in the right direction</h3>
 
 <p align="left">
     <img alt="vijayayeruva"
