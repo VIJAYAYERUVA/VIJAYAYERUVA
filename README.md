@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <p align="left">
     <img alt="vijayayeruva"
          src="https://komarev.com/ghpvc/?username=vijayayeruva&label=Profile%20views&color=0e75b6&style=flat"/>
+    <img alt="vijayayeruva_git"
+         src="https://img.shields.io/github/followers/vijayayeruva?label=Follow%20Me&style=social"/>
 </p>
 
 <p align="left">
