@@ -100,8 +100,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
-*Some of these tools and technologies I use every day. However, few of them were used at least once (hackathon project/class project/at my past workplace). I can pick up very fast.*
-<h3 align="left">Tools and IDEs:</h3>
+<details>
+  <summary><strong>Technical Skills (Click here to expand)</strong></summary>
+    <br>
+    <em>Some of these tools and technologies I use every day. However, few of them were used at least once (hackathon project/class project/at my past workplace). I can pick up very fast.</em>
+    <h3 align="left">Tools and IDEs:</h3>
 <p align="left">
     <a href="https://www.anaconda.com/" target="_blank" title="Anaconda">
         <img alt="Anaconda" height="40" src="https://avatars.githubusercontent.com/u/3571983?s=200&v=4" width="40"/>
@@ -427,7 +430,8 @@ Here are some ideas to get you started:
         <img alt="Kubernetes" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
              width="40"/>
     </a>
-</p>
+</p>    
+</details>
 
 ---
 <p><img align="left"
