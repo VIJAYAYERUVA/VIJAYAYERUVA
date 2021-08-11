@@ -93,6 +93,12 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+<p align="left">
+    <a href="https://stackoverflow.com/users/8016847/vijaya">
+        <img src="https://stackoverflow.com/users/flair/8016847.png" width="208" height="58" alt="profile for Vijaya at Stack Overflow" title="profile for Vijaya at Stack Overflow">
+    </a>
+</p>
+
 ---
 *Some of these tools and technologies I use every day. However, few of them were used at least once (hackathon project/class project/at my past workplace). I can pick up very fast.*
 <h3 align="left">Tools and IDEs:</h3>
