@@ -443,3 +443,6 @@ Here are some ideas to get you started:
               alt="vijayayeruva"
               src="https://github-readme-stats.vercel.app/api?username=vijayayeruva&show_icons=true&locale=en&count_private=true"/>
 </p>
+
+<p><img align="center" alt="vijayayeruva" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayayeruva&"/>
+</p>
