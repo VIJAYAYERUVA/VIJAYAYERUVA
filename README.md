@@ -56,17 +56,29 @@ Here are some ideas to get you started:
 ---
 <h3 align="left">Research Dashboards</h3>
 <p align="left">
-    <a href="https://greektragedy.herokuapp.com/" target="blank" title="Greek tragedy">
-        <img align="center" alt="Greek tragedy" height="60"
-             src="https://upload.wikimedia.org/wikipedia/commons/4/44/Dionysos_mask_Louvre_Myr347.jpg" width="60"/>
-    </a>
-    <a href="https://kc-healthcommunication.herokuapp.com/" target="blank" title="LinkedIn">
-        <img align="center" alt="vijayakumariyeruva" height="60"
-             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
+    <a href="https://greektragedy.herokuapp.com/" target="_blank" title="Greek Tragedy">
+        <img align="center" alt="Greek Tragedy" height="60"
+             src="https://github.com/VIJAYAYERUVA/Images2Share/blob/main/Dionysos_mask.jpg"
              width="60"/>
     </a>
+    <a href="https://kc-healthcommunication.herokuapp.com/" target="_blank" title="COVID-19">
+        <img align="center" alt="COVID-19" height="60"
+             src="https://github.com/VIJAYAYERUVA/Images2Share/blob/main/COVID19.jpg"
+             width="60"/>
+    </a>
+    <a href="https://kc-healthcommunication.herokuapp.com/" target="blank" title="Sentiment Analysis">
+        <img align="center" alt="Sentiment Analysis" height="60"
+             src="https://github.com/VIJAYAYERUVA/Images2Share/blob/main/Sentiment_analysis.png"
+             width="60"/>
+    </a>
+    <a href="https://kc-healthcommunication.herokuapp.com/" target="blank" title="Focus Group">
+        <img align="center" alt="Focus Group" height="60"
+             src="https://github.com/VIJAYAYERUVA/Images2Share/blob/main/Focus_Group.png"
+             width="60"/>
+    </a>
+    
 </p>
-<em>Both dashboards are deployed to heroku</em>
+<em>All dashboards are deployed to heroku</em>
 
 ---
 <h3 align="left">Connect with me:</h3>
