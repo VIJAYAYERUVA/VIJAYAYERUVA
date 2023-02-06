@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for help with **showcasing my skills and find the best job for my skills**
 - 💬 Ask me about **my research in NLP, python, plotly, and teaching**
 - 📫 How to reach me **https://www.linkedin.com/in/vijayakumariyeruva/**
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1MArRjgjegjJr_lRFc68-19kAXgKVwZ9y/view?usp=sharing)**
+- 📄 Know about my work experience **[Website](https://vijaya-yeruva.herokuapp.com/)**
 - 😄 Pronouns: **She/Her**
 
 <!-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vijayakumariyeruva/](https://www.linkedin.com/in/vijayakumariyeruva/)
