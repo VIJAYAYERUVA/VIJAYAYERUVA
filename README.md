@@ -32,15 +32,17 @@ Here are some ideas to get you started:
     <img alt="vijayayeruva" src="https://github-profile-trophy.vercel.app/?username=vijayayeruva"/>
 </p>
 
-- 🔭 I’m currently working on [data science skills with Python programming language](https://www.kaggle.com/vijayayeruva)
-- 🌱 I’m currently learning **Plotly, Dash**
-- 👯 I’m looking to collaborate on **projects that have a positive social impact**
-- 🤝 I’m looking for help with **showcasing my skills and find the best job for my skills**
-- 💬 Ask me about **my research in NLP, python, plotly, and teaching**
+- 🔭 I'm currently working on **data science skills with Python programming language**
+- 🌱 I'm currently learning **Django and Dash**
+- 👯 I'm looking to collaborate on **projects that have a positive social impact**
+- 💬 Ask me about **my research in NLP, ML, AI, and teaching**
 - 📫 How to reach me **https://www.linkedin.com/in/vijayakumariyeruva/**
-- 📄 Know about my work experience **[Resume/Website](https://vijaya-yeruva.herokuapp.com/)**
 - 😄 Pronouns: **She/Her**
 
+<!-- I'm currently working on [data science skills with Python programming language](https://www.kaggle.com/vijayayeruva)
+    - 🤝 I'm looking for help with **showcasing my skills and finding the best job for my skills**
+    - 📄 Know about my work experience **[Resume/Website](https://vijaya-yeruva.herokuapp.com/)**
+-->
 <!-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vijayakumariyeruva/](https://www.linkedin.com/in/vijayakumariyeruva/)
 -->
 
